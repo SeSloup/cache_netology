@@ -27,7 +27,7 @@
 
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5. 
 ![*Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*](https://github.com/SeSloup/cache_netology/blob/main/screens/02.png)
-![*TTL 5*](https://github.com/SeSloup/cache_netology/blob/main/screens/03.png)
+
 
 все что меньше 7 сек не завелось
 ---
@@ -35,7 +35,7 @@
 ### Задание 4. Запись данных в Redis
 
 Запишите в Redis несколько ключей с любыми именами и значениями. 
-
+![*Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*](https://github.com/SeSloup/cache_netology/blob/main/screens/03.png)
 ![*Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*](https://github.com/SeSloup/cache_netology/blob/main/screens/04.png)
 
 ## Дополнительные задания (со звёздочкой*)
